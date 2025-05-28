@@ -215,6 +215,11 @@ form button:hover {
   color: #FFD700;
 }
 
+li {
+  list-style: none;
+}
+
+
 /* Responsive improvements */
 @media (max-width: 768px) {
   .projects-container {
